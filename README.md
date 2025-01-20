@@ -5,11 +5,12 @@ Este projeto é uma solução para o desafio **Blog Preview Card** do [Frontend 
 ## Demonstração
 
 Você pode visualizar o projeto ao vivo clicando no seguinte link:  
-[Link para a Demonstração](#)
+[Link para a Demonstração](https://henryydev.github.io/FrontEnd-Mentor-BlogPreviewCard/)
 
 ## Screenshots
 
-![Screenshot do Blog Preview Card](./assets/images/screenshot.png)
+![image](https://github.com/user-attachments/assets/ffd8a901-6dc6-4ff9-863a-f7f3518bd504)
+
 
 ## Tecnologias Utilizadas
 
@@ -17,19 +18,6 @@ Você pode visualizar o projeto ao vivo clicando no seguinte link:
 - **CSS**: Estilização e responsividade do card.
 - **Fontes**: A fonte "Figtree" foi usada, disponível através do Google Fonts.
 
-## Estrutura do Projeto
-
-A estrutura de pastas do projeto é a seguinte:
-
-/blog-preview-card
-|-- index.html # Arquivo HTML com a estrutura do card
-|-- style.css # Arquivo CSS com os estilos
-|-- /assets
-| |-- /images
-| |-- illustration-article.svg # Imagem do artigo
-| |-- image-avatar.webp # Imagem do avatar do usuário
-| |-- favicon-32x32.png # Ícone do site
-|-- README.md # Este arquivo
 
 ## Responsividade
 
