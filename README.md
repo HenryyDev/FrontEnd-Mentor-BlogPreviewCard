@@ -5,7 +5,7 @@ Este projeto é uma solução para o desafio **Blog Preview Card** do [Frontend 
 ## Demonstração
 
 Você pode visualizar o projeto ao vivo clicando no seguinte link:  
-[Link para a Demonstração](#)
+[Link para a Demonstração](https://henryydev.github.io/FrontEnd-Mentor-BlogPreviewCard/)
 
 ## Screenshots
 
