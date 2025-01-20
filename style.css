@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "figtree";
+}
+body,
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 98vh;
+  background-color: hsl(47, 88%, 63%);
+}
+.container {
+  display: flex;
+  padding: 20px;
+  border: 1px solid hsl(0, 0%, 7%);
+
+  max-width: 400px;
+  flex-direction: column;
+  height: auto;
+  width: 400px;
+  border-radius: 25px;
+  background-color: hsl(0, 0%, 100%);
+  filter: drop-shadow(8px 8px 0px #000);
+}
+h1 {
+  font-size: 24px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-weight: 800;
+  transition: all 0.3s;
+}
+h1:hover {
+  color: hsl(47, 88%, 63%);
+  cursor: pointer;
+}
+p {
+  color: hsl(0, 0%, 42%);
+  font-size: 15px;
+}
+.topic {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-weight: 800;
+}
+.txt-topic {
+  padding: 7px;
+  background-color: hsl(47, 88%, 63%);
+}
+.user {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  font-weight: 800;
+  margin-bottom: 20px;
+}
+.userName {
+  padding-left: 10px;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+@media (max-width: 375px) {
+  .container {
+    width: 90%;
+    padding: 10px;
+  }
+}
+@media (max-width: 600px) {
+  .container {
+    width: 85%;
+  }
+}
